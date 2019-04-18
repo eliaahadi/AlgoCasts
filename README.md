@@ -23,5 +23,35 @@ $ jest fib --watch
 ##  Tests
 - To run tests, run them for each exercise e.g.
 ```
-$ jest reversestring/test.js
+exercises$ jest reversestring/test.js
 ```
+
+## Suggested Order of Exercises
+- reversestring
+- palindrome
+- reverseint
+- maxchar
+- fizzbuzz
+- chunk
+- anagrams
+- capitalize
+- steps
+- pyramid
+- vowels
+- matrix
+- fib
+- queue
+- weave
+- stack
+- qfroms
+- linkedlist
+- midpoint
+- circular
+- fromlast
+- tree
+- levelwidth
+- bst
+- validate
+- events
+- sorting
+ 
