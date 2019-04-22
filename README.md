@@ -27,6 +27,7 @@ exercises$ jest reversestring/test.js
 ```
 
 ## Suggested Order of Exercises
+
 - reversestring
 - palindrome
 - reverseint
